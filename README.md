@@ -1,6 +1,12 @@
 # IF1002-_Avaliacao_de_desempenho_de_SISTEMAS
 Aulas da disciplina AVALIAÇÂO DE DESEMPENHO DE SISTEMAS
 
+Usar o mesmo projeto de comunicação científica
+
+Cadias de Markov e Filas Markovianas
+Rede de Petri estocásticas
+
+
 - Avaliação será feita em duas etapas:
   - primeira parte: lista de exercícios + avaliaçaõ
   - segunda parte: Projeto (Análise de desempenho em um sistema - o sistema é baseado no procedimento da disciplina comunicação técnica e científica)
