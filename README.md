@@ -22,3 +22,14 @@ Existe formulas mais completas estatísticas mas elas não serão cobradas
 - Análise de desempenho se extende para outras áreas não apenas software mas também análise de desempenho de medicamentos...
 
   10:00
+
+--------------------------------------------
+Esperança:
+
+Na estatística, esperança (ou valor esperado) é uma medida do valor médio de uma variável aleatória, ponderado pelas probabilidades de ocorrência de cada valor. Em outras palavras, é o valor que esperaríamos obter, em média, se o experimento fosse repetido muitas vezes.
+
+A esperança não indica o resultado mais provável, mas sim o valor médio ponderado pelos resultados possíveis.
+
+Nunca saberemos exatamente quando a média das médias das amostras corresponde à média verdadeira do sistema
+
+  
